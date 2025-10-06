@@ -1,0 +1,1874 @@
+Bon les gars, je pense qu'on peut commencer hein. On peut euh commencer l'en s'il y a des gens qui
+0:18
+vont arriver, viendra après. Hm. Alex, tu es là ? Tu es là, Marisa ?
+0:25
+Ouais, je suis là, je suis là. D'accord. Mar, je sais pas si tu es là. On va commencer par un peu regarder ton
+0:32
+l'exercice que tu as eu à faire étant donné que c'était pas un exercice euh
+0:41
+déjà prédéfinie donner le champ version sur lequel vous devez faire les
+0:47
+recherches. Donc savoir si tu peux partager ton écran. Je partage ton écran, tu nous expliques un peu
+0:53
+qu'est-ce que tu as eu à faire exactement et on regarde ensemble si tu peux
+1:01
+actuellement partager. D'accord.
+1:07
+To se fait passage.
+1:28
+Est-ce qu'on voit mon écran ? Oui. Oui. Tu peux grandir s'il te plaît ?
+1:42
+Encore un peu.
+1:51
+J'ai même pas l'impression que fonctionne
+1:57
+là nous on pas grandi pour nous. Je pense tu pas grandi ton écran.
+2:02
+OK. un peu rendu une fois là-bas forcément à ce que de ce que j'ai essayé de faire de rendu
+2:08
+justement ok d'accord j'attends comme ça on va essayer de de gérer comme ça hm hm
+2:13
+disnous un peu m'expliquer toi quel contexte tu as à choisir donc laisse
+2:25
+restaurant Hm hm. On a euh les plats
+2:34
+les les plats principaux euh et
+2:40
+la classe initiale la classe ce sera la classe. Bon,
+2:48
+j'aime bien travailler en anglais quand je programme. Tuux expliquer en anglais
+2:54
+pas. Je expliquer en français. Ah ok. Ah je
+3:00
+que tu disais que tu étais plus à l'aise en anglais pour expliquer. Moi je sais pas moi j'ai pas le problème en fait. Ah bon ? En fait il y a la classe euh
+3:09
+plat. Oui, avec les propriétés
+3:14
+prê time temps de préparation prix et ingrédients.
+3:21
+Ensuite, il y a la première méthode pour afficher les infos sur le plan euh le
+3:28
+nom, le prix, le temps de préparation ainsi que les ingrédients.
+3:35
+tout pour euh dire à en combien de temps le plat ça a
+3:42
+servi une méthode pour vérifier si le plat est
+3:50
+végan végan et bon je sais pas je je dois juste j'
+3:57
+donner les grandes lit ou bien je dois dire bon juste les grandes l par exemple bon tu as combien de classes par exemple ?
+4:04
+tu as tu as cité. Bon, qu'est-ce que le programme fait d'abord ? En fait, comme j'ai dit, j'ai une
+4:11
+classe, ensuite j'ai deux deux héritiers, si je dois dire ça.
+4:17
+Deux, ça c'est trois classes. Parmi les trois classes, il y a une classe parents et
+4:22
+oui et deux classes. Les enfants. Deux classes. Oui, c'est ça.
+4:29
+Qu'est-ce que la méthode fait dans son ensemble ? J'ai vu avec les docen dans le dans le g mais tu n'as pas mis ici
+4:37
+là. Bon explique qu'est-ce que qu'est-ce que ton programme fait exactement. Comme j'ai dit c'est juste pour avoir
+4:44
+des infos sur les plats dans un restaurant. Hm hm. Genre euh le plat principal
+4:54
+il j'ai défini une méthode pour vérifier si c'est un plat végétarien ou pas. Là, j'ai exclu des trucs comme le poulet, le
+5:03
+bœuf, le porc, euh le lait et tout ça. Hm
+5:08
+hm. Et ensuite euh la méthode pour par
+5:13
+exemple changer les ingrédients euh ou ajouter, réduire ou modifier.
+5:21
+Bon, ajouter en fait, ajouter les ingrédients dans un plat. Ensuite euh
+5:29
+la méthode pour modifier l'accompagnement et
+5:36
+Ouais, c'est ça. Bon, par exemple pour le dessert, il y avait aussi une méthode pour voir si c'est
+5:42
+végan. Une autre méthode pour ajuster le niveau de sucre en fait.
+5:49
+Hm hm. En gros, c'est ça. OK. OK.
+5:55
+Non, c'est comprends bien. Bon, tu as des dans ta classe parent la
+6:01
+classe parent tu mets voir tu as les paramètres entre le nom le temps que tu
+6:07
+as besoin le prix et les ingrédients.
+6:12
+Maintenant dans ta classe euh m plat principal ce que tu
+6:19
+Oui, m c'est plat principal. Exactement. tu
+6:27
+quel est le paramètre le plus que tu as inclus dans le dans ton plat dans la classe
+6:34
+plat principale. C'est c'est ça side en fait l'accompagnement. Hm
+6:40
+hm. OK. Parce que au resto c'est gens on te donne un plat et ensuite un truc comme
+6:46
+je sais pas le riz le plantin pour accompagner. Hm hm. Exactement. OK. OK. OK. OK.
+6:53
+Et oui tu as tu as eu à utiliser tu as utilisé le construct mettre les
+6:58
+différents éléments. Oui. Maintenant tu as une classe display.
+7:06
+Bon on va display info. Une méthode de temps pour moi. Display info ta méthode display info.
+7:13
+Display info super. Vois tu utilises également la méthode display info que tu as eu à créer en haut. Super
+7:21
+super super. Il y a quel autre méthode ? Estimate saving time
+7:29
+vegetarian.
+7:43
+Ok. Donc très très intéressant le cas. Très intéressant en tout le cas. Voilà, ça
+7:50
+permet de voir ça, ça inclut en fait tous les
+7:57
+éléments qu'on a eu en voie ensemble la dernière fois dans une classe. Donc
+8:03
+pense qu'avec ça si tu es capable de produire un truc comme ça, de comprendre
+8:09
+les différents événements et les différents principes utiliser à télé pour moi c'est ça va
+8:14
+être bon base. pass à la prochaine étape à l'étape d'aujourd'hui.
+8:20
+Donc pour moi vraiment l'exercice tu as eu à bon je suis testé par règlement sur
+8:25
+moi et rien ne m' offer de vraiment critique.
+8:33
+Je sais pas si euh tu vois un truc une noture un ajout
+8:40
+amélioration. Non pas je me pas sur le cours. Hm
+8:45
+hm. Donc correct et donc si je te pose une question Mar euh qu'est-ce que tu as pris en implémentant ce code du moins
+8:52
+qu'est-ce que tu connais qu'est-ce que tu ne connaissais pas avant et que tu as pris en implémentant ce codeci par exemple du mois en faisant cet exercice
+8:58
+qu'est-ce que tu as eu comme highlight dans ton apprentissage
+9:06
+en fait euh comme je suis je suis de domaine du machine learning
+9:12
+euh construit un net ce soir ça. Donc en fait moi je prenais
+9:17
+ça comme je comprenais pas trop ce qui se passait. Disons que là maintenant j'ai compris euh voilà.
+9:24
+Alors super j'ai compris de quoi ? Super. Super. Tu utilisais juste mais là
+9:30
+tu comprends même beaucoup plus pourquoi est-ce que tu utilises quoi comme ça en fait ? H
+9:36
+OK d'accord. OK donc aujourd'hui malheureusement nous
+9:41
+sommes pas nombreux. On va donc essayer de d'entamer la prochaine étape et ce serait donc Pidentic Pidentic et face à
+9:50
+AP. Donc on va essayer de faire ça tout ça ensemble. Donc je partage mon écran.
+9:56
+Euh faites-moi si vous voyez l'écran. D'accord.
+10:02
+Donc du coup si vous voulez des références on a euh pentic ils ont une page officielle
+10:08
+euh ça par comme il dit ça permet de valider les données, les modèles. On ça
+10:14
+comme ça. Et donc ici vous trouverez donc tout ce qui est nécessaire pour programmer avec pasic. Donc du coup sans
+10:21
+toute fois tarder, je vais essayer de créer un H là. Ici, on va appeler euh
+10:28
+Identic et puis on va faire face AP plus tard. Attends, je peux ça pas payer ça comme ça face API
+10:35
+HTML euh
+10:40
+SPR
+10:48
+je veux trouver ça ici.
+10:54
+C'est ça.
+11:00
+OK. Espérant que si fonctionne. H
+11:10
+OK, tout est installé mais malheureusement pas besoin de ça. Je supprime la même méthode. Merci.
+11:22
+Donc du coup, je vais essayer d'abord de structurer mon répertoire. Donc je commence par par
+11:27
+source et dans source j'aurais besoin
+11:34
+de modèle. J'aurais besoin
+11:40
+de contrôle A
+11:46
+et j'aurais besoin de view
+11:52
+et aussi pour notre test. Pour notre test, on aura besoin
+12:00
+naturellement dans qu'on va appeler test.
+12:07
+Alors dans modèle, je vais créer dans
+12:12
+mon fichier qui va payer modèle. Bon, je vais essayer de faire ce que Alex a fait la dernière fois. Donc, je crois un truc similaire pour aborder le programme le
+12:19
+problème de Pentique. Don on va d'abord faire un truc classique comme ce qu'il a fait la dernière fois. On va prendre un
+12:25
+peu comme euh une classe comme celle-ci et on va définir notre constructeur
+12:33
+hm unit.
+12:40
+Et donc on aura notre self, on aura une personne par exemple les caractéristiques comme le nom,
+12:45
+le prénom on s'arrête en fait on s'ajoute on se on s'en
+12:53
+va dire self non
+13:02
+égom
+13:10
+prénom.
+13:15
+On peut aussi utiliser méthode pour dire display
+13:23
+qui prend aussi constructeur. On va s retourne
+13:31
+je m'appelle hm pas on dit
+13:37
+serve compte non
+13:46
+et serve prénom
+13:52
+donc prenons seulement prenons ce cas-ci pour expliquer vite la différence entre pilentic et cette configuration c là
+14:00
+Alex tu peux me stopper si la configuration n'est pas correcte fa longtemps aussi que j'utilisais pas que
+14:05
+j'utilisais plus ça oui oui no source no source ok donc hh on va donc essayer de de
+14:11
+créer notre objet on une instance personne qu'on va donc dire OK là ici on
+14:18
+me demande de mettre le nom et le prénom al je vais essayer de créer
+14:26
+É le du nom
+14:33
+on va l'appeler Tom.
+14:39
+Non, Smith
+14:45
+et ah non, c'est c'est le nom que j'ai dit. Donc non.
+14:53
+et puis prénom, je vais appeler
+14:59
+Thomas. Ah donc ici je vais passer cette donnée
+15:06
+là. Voilà 6 personnes point
+15:14
+display et
+15:22
+que je mette ça dans prim apparemment
+15:36
+Ici, tu vois, j'ai ici je m'appelle Smith Thomas, c'est quelque chette.
+15:42
+Maintenant, le danger avec ça, du moins ce qu'il va aborder ici, c'est le danger avec le nom C. Ici, on a dit par exemple
+15:47
+du moins ici, j'ai dit j'ai mis le string, n'est-ce pas ? Que se passe-t-il si je mets ici de
+15:53
+D'après vous euh Mar d'après toi, qu'est-ce qu'est-ce qui va se passer si met deux ici et puis le programme ?
+16:03
+Euh ça c'est un integer, n'est-ce pas ? Tout à l'heure c'était un string, maintenant c'est un integer. Qu'est-ce
+16:09
+que se passerait si le code si euh
+16:16
+pour toujours marché ? Ça va marcher. Alex tu penses aussi pareil ? Oui oui ça va marcher étant
+16:22
+donné que pour lui il ne regarde pas. Voilà, justement ça marche. Je m'appelle
+16:28
+de Thomas. Maintenant c'est justement à ce niveau qu'intervient le rôle de
+16:34
+Pentic avec avec Pent vient briser ce cette règle là. C'estàd quand tu fixes
+16:40
+ton truc, ça doit fonctionner ainsi. il auras pas tu n'auras pas besoin tu peux pas dire je m'appelle par exemple Herman
+16:45
+et puis tu as tu dis que non c'est c'est plutôt Thomas là ça va marcher avec pasqu donc on va essayer donc de
+16:54
+de gérer ça normalement ou bien prenons la même méthode la même classe
+16:59
+et on appelle ça base model et base model vient de pad je vais
+17:05
+importer ça euh je crois que ça c'est un truc qui
+17:11
+pron Ceci OK non ça vient de Pic. Non c'est la et tu
+17:19
+vois quand je mets par un tic là mon consul se plaint déjà vous voyez h
+17:27
+donc ce qui ce qu'il faut faire ici c'est tout simplement supprimer le consulteur parce que là ce moment il ne sait plus rien et donc j'aurais besoin
+17:33
+justement de de mes caractéristiques name je donne sa définition c'est un
+17:39
+string et le prénom c'est aussi notre stream.
+17:48
+Alors, qu'est-ce que ça ?
+17:54
+comme voilà et ceci par exemple sauter ça se
+18:00
+place plutôt ici.
+18:12
+Ça comme ça
+18:17
+maintenant ess un peu de de faire print.
+18:25
+personne.
+18:32
+Ouais, il est derrière.
+18:38
+Ouais, n'est-ce pas ? Oui oui. Maintenant si je si je remets ici notre
+18:45
+signe de tout à l'heure donc est-ce qu'elle est-ce que en fait OK, je mets d'abord la la
+18:51
+version qui qui fonctionne. Euh qu'est-ce que ici ? Prénom non tout
+18:58
+ça ça ça c'est pour c'est c'est trè tu do
+19:03
+avoir besoin de construction. Tu as défini pas nonom. Ah. C'est vrai, c'est vrai. Ça c'est le
+19:10
+truc. C'est ça. La première hein. Euh donc
+19:15
+et du coup ça fonctionne maintenant. Donc changer encore le type pour avoir
+19:21
+l'ur de tout à l'heure.
+19:27
+En fait par se plain ici tout simplement parce que le type que j'entre ici, le type que je mets ici en paramètres,
+19:33
+c'est pas le type que j'ai défini. me pos pourquoi ça fonctionne
+19:39
+constructeur en fait pourquoi pourquoi tu as besoin de constructeur tuas pas besoin de constructeur ici
+19:45
+pourquoi tout parce que par intègre ces propriétés là en fait
+19:50
+h et justement c'est pour ça que j'ai payé au départ payé ma mon mon répétoire modèle parce que justement ici ce n'est
+19:56
+ce n'est que des modèles ce genre de formes là tu vas pas voir les méthodes
+20:02
+normalement dans les modèles on on ne définit pas les méthodes tu mets les méthodes dans le constructeur dans le contrôle là.
+20:07
+Hm. Tu vois donc génement tu vas voir dans les dans les projets, tu vas voir c'est
+20:12
+comme ça que les modèles sont structuré et peut-être encore avec une fonction pour valider
+20:18
+genre pour donner l'erreur pour ne pas donner ce genre de d'erreur aussi brutal. Ça tu as une fonction qui te génère une erreur assez classe quoi,
+20:25
+assez assez smart pas aussi brutale comme ici. Donc en fait c'est ça le rôle de de de
+20:31
+pentic. Ça peut ça peut même de valider les types de données que tu entres. Tu vois ici j'ai entré deux ça refusé mais si j'entre ici mon de si je transforme
+20:38
+ça en string là je n'aurais plus de problème
+20:44
+tu vois là je n'aurais plus de problème à ce niveau. Donc euh pour donc euh
+20:49
+augmenter le truc du moins pour augmenter la compréhension. Je vais essayer d'intégrer ça dans un projet que je vais
+20:57
+appeler ça, je sais pas, task. Donc non, ça veut dire que avec pas
+21:05
+identique, on ne peut pas voir euh des sorties comme je m'appelle, je sais pas.
+21:10
+Si si tu peux tu peux avoir bien sûr, tu peux voir. C'est J'ai pas voulu perdre autant tout à l'heure avec la fonction ce que j'ai retiré et puis une fois euh
+21:17
+faire sortir le sinon tu peux avoir la fonction tu peux avoir la fonction dans la classe aussi.
+21:24
+Mais dans ce cas-ci, je vais plutôt intégrer ça dans un dans mon contrôle là et appeler mon et appeler ma mon modèle
+21:31
+en fait. Donc c'est ce qu'on va voir tout de suite
+21:36
+je vais respecter le design on va dire modèle vi contrô tu as vu ici j'ai mon
+21:44
+truc ici modèle vi contrô c'est que je vais essayer deimplémenter ici.
+21:52
+D'accord.
+21:57
+Donc mon tasque. Bon, en fait, c'est un peu comme une tourist que j'ai envie d'implementer ici. Donc j'aurais besoin d'une ID, j'aurais besoin par exemple du
+22:05
+titre titel euh string bien sûr. J'aurais besoin de
+22:12
+la description. C'est quoi ce qu'il est question ?
+22:18
+C'est aussi un nouveau string. Euh, j'aurais besoin par exemple la date de création
+22:26
+cré qui est aussi un string.
+22:33
+Euh, j'aurais besoin peut-être de statue pour dire si le touto a été fermé ou
+22:40
+pas. Bon, h attends peut autrement.
+22:48
+passe modèle pas. OK.
+22:54
+app task
+23:03
+status qui prend paramètres un homm vous avez du moins mag tu crois ce qu'on
+23:09
+appelle numération n'est-ce pas tu as vu ça
+23:14
+tu as utilisé ok donc du coup j'aurais par exemple Euh
+23:20
+euh un truc que je vais appuyer euh mon premier demand sera pardon pending
+23:26
+euh qui va prendre pending.
+23:32
+Il aura un autre truc complete complete
+23:38
+qui va prendre le string complete.
+23:48
+Ça c'est énormément.
+23:53
+Donc du coup le statut va donc prendre un truc de ce type euh tas
+24:00
+tatos comme ça. Hm
+24:06
+peut partir ici aussi peut partir
+24:12
+ça jusqu'ici. Donc du coup ça ce sont mes caractères du moins ça c'est mon modèle.
+24:19
+On va essayer de simuler un truc euh vite fait. On va payer ça. Contrôle
+24:30
+contrat de L. Non, je crois. Alors bon on se définit déjà une liste
+24:38
+comme ça et puis comme méthode en fait on va par exemple méthode pour créer la liste
+24:44
+create pour créer un tant pour moi on a par exemple besoin
+24:51
+je sais pas du titre en fait de ce qu'on veut créer
+24:57
+on aura besoin de la description
+25:05
+et de tout ça devrait retourner un tasque
+25:12
+importe ça.
+25:18
+Non, ce que ça fait c'est quoi ? H
+25:26
+je l'accepte.
+25:34
+Voilà, je vais enregistrer mon je vais créer mon tasque d'après vous-m d'après ton mar comment est-ce que je pourrais
+25:39
+faire pour créer mon tasque ici ? Je vais créer mon tasque pour ajouter dans la liste qui est vide. À ton avis,
+25:46
+comment est-ce que je pourrais faire pour y arriver ?
+25:53
+Je te dans une liste. Hm. Je vais dans une liste.
+26:01
+Bon, ça sont Je comprends pas trop ce qu'on veut faire en fait. Voici ma liste, n'est-ce pas ?
+26:06
+Voici mon euh l'ensemble des tasques, l'ensemble des todo en fait des todo list. J'ai envie de créer
+26:14
+un tour et l'ajouter dans la liste qui qui en ce moment vite en utilisant le modèle du modèle ici
+26:27
+tu comprends un peu ce que vouloir faire Alex ou bien pour toi aussi c'est c'est cl
+26:32
+mais comment tu fait tu as défini en fait gency la structure comment est-ce que tes dates doivent avoir tout
+26:39
+simplement ce que tu fait le modèle donc pour faire une sorte de template comment est-ce que tes données doivent être
+26:45
+maintenant pour créer tu importe le template tu as quoi le template doit recevoir dans ton contrôle et tu te bases ça pour
+26:52
+voilà pour créer les les les clan en fait ce que vous avez fait avec la dernière fois les shaft en fait c'est ça que je suis en de faire temps dans dans
+26:58
+mon contrôleur tu vois
+27:04
+si créer une tasse au lieu de supposons là par exemple supposons que c'était ce queon a eu à faire la dernière fois cit
+27:10
+une personne lui il a créé sa classe personne dans le modèle maintenant ce qu'il veut faire ici là il crée
+27:16
+maintenant l'objet personne au niveau de create personne par exemple
+27:23
+c'est bon mar je crois que entré
+27:29
+bon peut-être au fil du temps tu vas comprendre Kevin tu es là tu tu es dans le tu es dans le bain déjà euh ouais ouais je suis là mais bon j'ai
+27:36
+pas encore vraiment tout sais hein bon ok je vais essayer de faire euh un truc. C'est peut-être le temps tu vas
+27:43
+comprendre euh tasque tasque tasque
+27:51
+à faire
+27:58
+tasque tas par exemple qu'est-ce qu'on fait de quoi
+28:04
+comme pour créer quoi'est-ce
+28:09
+qu'il faut pour créer un tasque
+28:14
+Ah, il faut la propriété. Voilà, il faut par exemple le ID, n'est-ce pas ? Il faut le titre, faut la
+28:20
+description, faut la date de création et il faut le statut. Lors pendant après la création, il faut un statut. Donc ce que
+28:26
+je vais essayer de faire ici euh ID par exemple, je vais dire ID, je veux que ce
+28:32
+soit un truc, j'aimais bien faire ça manuellement ou du moins je vais faire ça automatiquement mais euh pour la
+28:39
+suite du moins pour le test, je vais moi-même faire ça genreà manuellement. Sinon dans les projets normalement il y a les trucs qui a la fonction euh uid
+28:47
+voilà ceci et à ça tu vas prendre par uid feu bien c'est ID F tout simplement.
+28:55
+Ah j'importe ça. Voilà par ceci en fait dans les projets
+29:00
+pour créer une ID de manière automatique, il y a cette fonction qui qui nous permet de faire sa m que s'il
+29:06
+fait çaement si ça va nous empêcher dans euh dans le test parce que il va falloir absolument regarder c'est quoi le ID. Or
+29:13
+si même j'ai mon ID ça va me permettre de de faire mon test plus facilement. Donc je vais essayer ici de retirer la
+29:20
+fonction aussi. On peut mettre ça comme ça. Au fil du temps, on va essayer de d'ignorer le ID
+29:26
+là. Donc euh on a encore besoin de quoi ?
+29:33
+On a besoin de title donc qui égal à quoi ?
+29:40
+Euh task titer.
+29:46
+On aura besoin de description.
+29:53
+description. Euh, on aura besoin de quoi encore ?
+30:01
+Bon, j'ai pas besoin de mettre ça comme ça puisque le site ça vient de l'utilisateur. C'est lui qui met ça. Donc, on met ça comme ça.
+30:10
+On a encore besoin de quoi ici ? Euh, temps de création.
+30:19
+OK. Bon ici je vais utiliser de time compte
+30:25
+OTC qu c'est comme ça voilà là c'est pour l'avoir ça c'est pour avoir la date
+30:31
+actuelle en fait je vais importer ça de date quo c'est comme ça
+30:41
+date time import date
+30:47
+date date prim h
+30:53
+il manque un dernier élément bon je veux que après la création que le statut occupe
+31:01
+la valeur de task
+31:07
+stat pending que soit ça la création
+31:14
+ici qu'est-ce que çaut ok ça se plaint déjà pourquoi ici parce que
+31:20
+on dit que mon integer jeis nommer c'est que ça ça doit occuper un string et je
+31:26
+lui donner un integer pareil pour euh la date je qu' devait occuper un string je donne l'objet dat allons modifier dans
+31:33
+le modèle vous avez vu l'erreur vous avez vu
+31:38
+le message là donc du coup ce que je donne integer
+31:44
+mais je passer un moins Il veut on veut un integer
+31:51
+et il est passé un string. C'est ça, n'est-ce pas ?
+31:56
+Je change ça en string et ça aussi je vais changer ça en de
+32:02
+time.
+32:11
+Ah er est parti. Maintenant, ce que je vais faire, c'est que je vais essayer
+32:16
+de d'ajouter ça à la liste des tasques.
+32:57
+Pourquoi ceci se plein alors ? Pourquoi ça met ça ?
+33:05
+Bon, il sont faire un truc. OK, c'est bon, c'est parti. Donc pour
+33:11
+voir si ça marché un peu de faire de créer un tasque ça d'abord.
+33:22
+Je donne en paramètre par exemple. Bon, normalement pas besoin de ça. J'ai
+33:28
+besoin de quoi pour créer mon mon besoin de titre
+33:35
+le titre va payer ça todo
+33:43
+et la description
+33:50
+ça texer
+33:57
+ça comme et puis le task person
+34:04
+task 1 task ou bien
+34:11
+create
+34:18
+et puis je passe en paramètres
+34:28
+print task ein
+34:33
+voir ce que ça fait OK c'est non ça en fin de compte tasque n'a pas
+34:39
+marché
+34:44
+force n' pas sa place
+34:51
+mon objet qui a été créé
+34:57
+Ouais ça ça prend ta question tout à l'heure
+35:02
+que tu comprend pas parce que vou faire avec la fonction
+35:08
+j'ai pu créer un objet du moins un to et si je fais par exemple
+35:16
+le print task
+35:22
+qu' il vient là c'est une liste de class n'est-ce pas de tasqu
+35:28
+c'est bon dans ensemble est-ce que c'est bon pour tout le monde
+35:34
+moi c'est bon j'avoue que je ne comprends pas trop c'était quoi le but de créer la place
+35:40
+parce que littéralement c'est c'est juste comme
+35:48
+tu dis je pas quoi le but de définir une classe avant de faire ça
+35:54
+définir la classe avant de faire ceci avant d'écrire ça hm hm justement voici la classe que je
+35:59
+utiliser sinon toi tu aurais fait comment bon commençons par là tu aurais fait comment d'après toi parce que voici la classe que j'ai défini voici la classe que j'ai définie ici et voici tu
+36:05
+l'utilises ici à ce niveau quand j'aurais fait com comprends un peu la question puisque
+36:11
+elle est en train de dire que la classe par exemple créer ta la méthode pour moi
+36:17
+créer ta que tu es en train de créer là on aurait pu créer ça directement dans une classe.
+36:22
+C'est ce que tu es en train de dire Marza directement ici. Bon c'est la ha question c'est fait ça
+36:28
+et justement c'est ce que c'est ce que tu dit tout au départ donc j'ai en fait pour pour question de lisibilité dans
+36:35
+les modèles on on met seulement les modèles donc ça de structure là les sh d'une classe dans le contrôle là tu dis
+36:43
+maintenant c'est que moi je définis maintenant chaque chaque élément ou bien chaque chaque affaire que tu souhaitais
+36:49
+avoir chaque comportement que tu souhaitais avoir et c'est ce que j'ai fait ici par exemple
+36:54
+OK. Bon, ce qu' en de vouloir dire tout simplement, je sais pas ce qu'il a en de dire c'est la mur que tu dis la Mar là,
+37:01
+c'est c'est vrai un peu le faire comme ça, mais ce qu'il est en train de montrer je sais pas si tu as eu entendre parler, c'est ce qu'on appelle les
+37:07
+design pattern. Je sais pas. C'est-à-dire lorsqu'on parle de design
+37:12
+pattern, ce sont des je veux le dire quoi des des
+37:18
+systèmes sont les techniques sont techniques en fait technique qu'on utilise pour pouvoir développer quelque chose de la façon la
+37:24
+plus efficace, la façon la plus lisible possible parce que comme tu as dit tu peux directement créer ta méthode et à
+37:31
+l'intérieur tu crées directement tes fonctions. généralement entreprise lors du travail il y a une personne qui est
+37:36
+par exemple chargée de créer le modèle personne chargé de créer les contrôles, l'autre personne est chargé de créer prendre le view ce que tu vois ce qu'il
+37:43
+a fait là c'est simplement de segmenter ça en en en en petite partie en fait il
+37:51
+a utilisé le le le pattern qu'on appelle model view contrô là le modèle en fait c'est ce que toi tu as en ce que c'est
+37:57
+ce qu'on est en cœur de de voir là en fait nos donné donc par exemple lorsque tu crées ta classe tu les attribuer en
+38:03
+Donc on coupe cette partie, on met à part maintenant les différents méthodes que tu aur eu à créer en temps normal dans ta classe, on met ça maintenant
+38:11
+dans euh le contrôle là. Donc le contrôle là, c'est lui qui a la logique
+38:16
+en fait. Et maintenant le view, c'est ce que tu vois. Donc par tu vas entrer par exemple ton nom, la le titre la
+38:24
+description c'est par exemple c'est un truc que tu vas entrer en principe dans le view et
+38:29
+le view maintenant envoie ça dans le contrôle et le contrôle là utilise maintenant le modèle pour créer les
+38:34
+objets. Donc c'est pas la structure qu'il a utilisé. Oui, vas-y. Tout simplement que
+38:40
+la partie en fait de la ligne 19 à la ligne 26, ça ne se fait pas ici dans le contrôleur.
+38:47
+Tu vois, j'ai juste fait ça pour tester si la méthode que j'ai implémenté ici en haut fonctionne comme j'ai prévu, tu vois. Sinon ça là, c'est le travail de
+38:54
+de view. Si on met ça, on met cette donnée ici dans le view. Goc qui peut donner de l'utilisateur
+39:00
+dans le view et tu appelles ça, tu appelles la fonction qui est dans le consultant en ce moment. Donc ceci dans
+39:06
+le view là pour exécuter du moins pour prendre ces données en paramètres. Donc en fait le fait si je mets toutes ces
+39:13
+méthodesci dans le modèleci ça va fonctionner, il y aura pas de restriction.
+39:18
+Mais pour question de lisibilité, il faut donc segmenter le code que chaque chaque chaque chaque fonction du moins
+39:24
+chaque classe ou bien chaque ordre a son job à faire que soit pas mélangé pendant
+39:31
+le debing qu'on puisse voir OK on va aller dans quelle méthode ou bien dans quel répertoire pour trouver cette
+39:36
+méthode là que soit pas toufu en même temps parce que si metjoute c ligci là ici tu vas voir que ça toufu or ça va
+39:43
+masquer même ça va même cacher le le ces modèles là cette classe là. Donc le but
+39:49
+ici c'est de rendre le code le la fait lisible possible le plus lisible possible dans fait ici. Donc je vais
+39:55
+continuer avec les méthodes dans les euh les caractéristiques.
+40:00
+Euh on peut en tout cas on peut comme ça parce que il a 45 et faut qu'on aborde
+40:06
+le test et tout et tout. Donc laissons d'abord ceci et bon vous c'on commence par quoi ? Par
+40:13
+le test ou alors face à payer parce que c'est indépendant
+40:19
+de toutes les façons. Qu'est-ce qui est plus important pour vous en ce moment ? Face ou le test
+40:31
+tu veux le test ça ?
+40:38
+OK. Et toi Alex, tu veux quoi ? Bon ça là je sais pas combien de temps on a
+40:43
+encore notre disposition si on la question
+40:50
+ce qui c'est qu'on va beaucoup plus utiliser pour développer le
+40:56
+OK bon en faisant le test très c'est aussi méthode. On fait ça très simple.
+41:02
+Euh, on va dire texte euh la test quoi là ? Test task.
+41:11
+Donc normalement pour pour faire ceci, c'est pas test. Donc vous installez la la le package P test pour pour faire les
+41:17
+tests. Donc c'est dans installer chez moi. Donc ce qu'on va faire ici c'est on va déjà
+41:25
+euh importer le tasque. Donc la liste que j'ai fait tout à l'heure.
+41:30
+C dans contrôleur. OK, moi je peux la mettre tirer ça
+41:37
+et j'aurais besoin par exemple de ma liste
+41:42
+euh que je vais appeler setup task par exemple tout pour initial
+41:50
+pour vider à chaque fois la liste de tasqu
+41:57
+faire casque clear
+42:04
+c'est pour vider donc maintenant on a besoin de de décorateur je crois c'est pas test
+42:12
+euh en fait c'est cela permet tout
+42:18
+simplement de à chaque fois avant d'exécuter le programme du moins c'est méthode à tester que ça vide du moins que ça exécute l'action aussi donc dans
+42:24
+mon cas ça vide à chaque fois la liste qui est dans le contrôle cette listeci Ici ça vide ça à chaque fois que je off
+42:31
+le code ici ça pas vider d'abord tout ce qui est dedans et des bandages automatiques décorateur aussi
+42:38
+je mets ça et puis qu'est-ce que je veux tester par exemple bon les données à
+42:43
+tester on data ég
+42:57
+titre tout simplement Je vais appeler ça euh
+43:04
+titel one et on a besoin de la description.
+43:15
+Comment appeler ça ? Inscription
+43:22
+aussi. Bon, maintenant je dois
+43:28
+créer ma méthode que je vais appeler euh test
+43:35
+payasque
+43:41
+tasque égal create
+43:50
+task J'espère que c'est ça. Ah, porte.
+43:57
+OK, c'est ça. Donc, je passe donc data
+44:03
+one là ici à l'intérieur. Donc data one.
+44:08
+Voilà. Maintenant, c'est ici que le pest entre en jeu.
+44:14
+Ce que j'ai envie de faire, c'est j'ai envie de vérifier par exemple que
+44:20
+task pon title égal
+44:27
+à par exemple à data onc
+44:33
+et titre.
+44:39
+Ça c'est par mini texte un mini test pour vérifier que OK le titre le le titre qui a été créé euh du moins ce que
+44:46
+le tasque a le titre qui a été créé en fait du moins que c'est ça qu'on attend comme résultat.
+44:52
+ce qu'il va encore faire. Attends, test d'abord ceci.
+44:57
+Vous voyez par exemple dit que le test a été passé j'ai réussi le test, vous voyez le grun ça c'est vert partout.
+45:03
+Donc le test a été euh bien exécuté. que se passe
+45:10
+si je mets par exemple c'est égal à Hello
+45:20
+je vous pose la question d'après vous qu'est-ce qui va se passer
+45:27
+à R Kevin qu'est-ce qui va se passer d'après vous demande qu'est-ce qu'on aura comme réponse
+45:35
+je pense que le Ça va échouer. Oui, ça va échouer. Et toi pour toi ça pourquoi ?
+45:44
+Parce que euh les titres titres
+45:51
+sont pas justement. Donc ils sont des furen
+45:56
+et puis justement on voit on dit arement cela ce qu'on attend c'est
+46:01
+euh c'est c'est c'est c'est c'est mo ce qui vous voyez la différence
+46:08
+si on a dans j'ai une question parce que tout à l'heure tu as écrit dans la fonction t tu as donné la valeur
+46:17
+petit je sais pas pourquoi tu as pas écrit moi ça m' pas
+46:23
+Si pourquoi ? Pourquoi c'est n pas écrit si title ? Non non c'est écrit hello world. Je
+46:30
+m'attendais à ce que tu écrives title one pas dans le texte mais tu écris plutôt petit titan. Je sais pas trop
+46:38
+pourquoi petit titan si mais si mets comme ceci attends comme
+46:44
+ceci. Oui en fait du maternel parce que c'est en fait ça la valeur qu'on
+46:49
+c'est ça qu'on attend n'est-ce pas ? Oui, ça va fonctionner. Ça c'est un truc qui va fonctionner. On proc.
+46:55
+Oui, je ne refuse pas. Le souci c'est que tout à l'heure tu écris plutôt petite. C'est ça que je ne
+47:01
+comprends pas. Pourquoi tu testes plutôt avec petit ?
+47:07
+Euh, je comprends pas trop ta question. Alex, tu comprends ta question dans ce sens-là ?
+47:14
+Je sais pas. Je je pense qu'elle a dit que tu tu as pu utiliser la variable non utiliser la valeur. C'est ce que tu as
+47:21
+dit ça la variable. Oui oui oui c'est ça. Ah ah ok comme j'écris tout à l'heure de
+47:26
+tard. Ok d'accord ça c'est encore une autre notion. On reprend euh title comme
+47:32
+ça n'est-ce pas avec la fonction si je demande avec ça avec cette écriture c question demande
+47:38
+en fait que je veux la valeur qui se trouve à la clé title. Et la valeur
+47:43
+c'est quoi ? C'est title. One, c'est une notation. Ah d'accord. Moi je me disais que tu
+47:49
+écris tout simplement. Non non non non non. Data one et puis je trouve à la clé ou
+47:55
+du moins sa valeur qui se trouve à la clé euh title. Ah ok ça va ça va
+48:01
+c'est bon. Dans cas ça fonctionne. Donc en fait on peut faire plusieurs choses ici. On peut faire par exemple euh on va
+48:07
+dire quoi euh day time ou bien instance. Ça prend
+48:14
+deux valeurs. La valeur qu'on veut euh tester. Donc task pour par exemple, on
+48:21
+va dire create AT. Est-ce qu'il s'agit d'un string ? Ça va échouer normalement parce que
+48:26
+c'est pas un string. Voilà, on attend un type de date la det
+48:33
+time. Et si met par exemple ici de time, ça va fonctionner et il va falloir que
+48:40
+j'importe time des time comme ça.
+48:45
+Et là ça fonctionne. Je sais pas s'il y a des questions jusqu'ici. On peut faire comme ça autant
+48:52
+de choses. Euh instance
+48:57
+euh on va dire euh task.
+49:03
+On va aussi tester la liste même finale.
+49:08
+Je dire que instance teste les types d'une variable.
+49:14
+Oui, task. On peut aussi tester
+49:23
+si en ce moment là c'est après ça va créer le tasque. Est-ce que on a une
+49:28
+valeur dans notre liste qui a en ce moment ?
+49:34
+Donc c'est pour ça que ici est-ce que la longueur en fait à taille c'est égal à 1 ?
+49:40
+Regardons et justement ça passe. Essayons de mettre plutôt deux.
+49:48
+Là c'est chou tout simpement parce que dans la liste en ce moment, on a une seule ou bien un seul ou deux et j'ai
+49:55
+mis deux chose qui est qui n'est pas correcte en fait. Est-ce que c'est correct ? C'est d'accord. Je vois c'est
+50:01
+clair pour en ce qui concer le test. En fait, on peut faire tout ça. On peut faire une panoplie de méthode pour tester et puis dans les résultats, vous
+50:08
+allez voir justement quelles sont les classes ou bien quelles sont les méthodes qui ont qui ont échoué et pourquoi. Donc comme pour ce cas par
+50:14
+exemple, vous v la différence aussi voir la différence ici on attend
+50:19
+euh 1 et puis rentrer de c'est clair pour tout le monde test si c'est clair pour tout le monde on passe à autre
+50:25
+chose. une question. Hm hm.
+50:33
+Je sais pas, c'est quoi
+50:39
+en fait ? C'est c'est c'est un décorator. Ça permet ici en fait de prendre en fait de prendre cette
+50:45
+fonctionnalité ceci là dans la méthode là dans toutes les méthodes qui sont présentes dans le le document à tester.
+50:54
+Donc je peux comme j'ai dit, je peux ajouter par exemple cinq méthodes ici et à chaque fois ça va ça va toujours les faire ici.
+51:01
+On va tester chaque méthode. Ça va d'abord vider ça. Ça va faire un test sans passer par
+51:10
+passer par ça. Oui bien sûr. Et je fasse ceci
+51:16
+ça fonctionner ça va échouer. OK ça parce que tout à l'heure j'ai mis le truc
+51:22
+qui était là. et on fait ça. Voilà, ça va passer.
+51:29
+Donc normalement ce que ce qui ce qui est tout à l'heure ce qui mis tout à l'heure c'est pour des des fonctions assez compes là quand tu as plus de deux
+51:34
+mét des comportements différents. Sinon le résultat d'une de la première
+51:40
+classe par exemple va influencer les résultats de la deè de la deuxème méthode et ainsi de suite. On ne veut
+51:46
+pas ça avec ce feature là avec ce ce décorateur ça ça permet de de séparer
+51:52
+les les comportements en fait de chaque méthode ou bien les résultats de chaque méthode.
+51:57
+Et dans mon cas par exemple, ça vide la liste avant l'exécution de une méthode des données.
+52:06
+C'est bon ? Donc oublie ceci pour l'instant. Concentre-toi d'abord sur les tests là. Et si plus tard tu veux, tu
+52:11
+veux savoir pourquoi ça fonctionne, tu peux toimême mettre ça et ajouter le nombre de méthodes que tu veux et voir
+52:16
+le comportement enlever, remettre et voir ce qu'il y a comme changement.
+52:22
+D'accord. OK. Sinon, c'est bon pour le reste Kevin
+52:28
+Alex question.
+52:34
+C'est bon pour moi. Très bon. Kevin Kevin, c'est bon pour toi aussi.
+52:39
+En réalité le le P test la repose sur la fonction A.
+52:45
+Tu dis j'ai dit euh en fait la seule la seule portion qu'on
+52:52
+utilise plus tout à l'heure qui appartient vraiment à P test à
+53:00
+Non déjà déjà de base si tu n'installes pas P test tu ne pourras pas exécuter ce programme-ci.
+53:09
+Bon plan ça fonction parce que déjà j'avais installé Pest dans mon truc. Donc du coup s'il n'installe pas par test, ceci ne sera pas possible. Je m le
+53:16
+le point le bouton vert ne va pas ça ne va pas s'afficher de toutes les façons par install
+53:25
+dans tout ce qu'on a écrit là c'est quoi exactement qui appartient à pest à part
+53:31
+euh le @pest.fiction là c'est asset n'est-ce pas ou c'est pas
+53:38
+ça ? Euh à c'est pas tout. Sinon tu si tu veux tester ta méthode ça va en si tu
+53:43
+veux tester tes tes tes tes component ça va à 7. Donc c'est tout ça qui forme c'est tout ça qui fait p test en fait.
+53:52
+Donc il y a pas un truc tu vas dire c'est propre à test par ça c'est ça c'est comment dit il succise entre eux.
+53:59
+C'est tout ça qui fait pas test. Mais je pense c'est sa question de savoir par exemple lorsqu'on était dans niveau de
+54:06
+par identique là en fait base motel par exemple c'est une fonction qui vient de la bibliothèque là ce qu'elle veut savoir si acce également vient de la
+54:13
+bibliothèque par test en fait c'est ça ta question non oui oui Alex m'a compris
+54:19
+ah ok est-ce on va de retirer ceci là je suis je sais pas vraiment si si
+54:26
+est propre là je pourrais pas dire un truc que je saurais vérifier mais je sais pas si atex set est propre à test
+54:31
+mais on l'utilise pour pour tester les trucs. Tu vois dans un autre contexte euh il y
+54:37
+aura par exemple les asset euh je sais pas comment ils appellent encore ça dans les tests tt t dd par exemple ça c'est
+54:46
+une une autre une autre écriture. Donc je sais pas si en fait c'est propre à P
+54:51
+test mais on l'utilise en fait pour faire ce que gen de test en fait c'est que je pr làdessus
+54:57
+certitude mais dire l'origine de A7 moi je saurais pas je serais parti si tu me demandes exactement d'où vient par
+55:03
+exemple la méthode retour si c'est c'est propre à je sais pas trop à quelle méthode ici là je sais pas trop un peu
+55:09
+dans les fonctions prédéfinies mais si elle est propre à test là je sais
+55:20
+Hm. Donc là, tu pouras essayer de Google pour voir si ça vient de de de P test ou
+55:25
+pas, si c'est propre à P test ou pas. Sinon, c'est tout ce que c'est que on l'utilise à là pour exécuter je moins
+55:33
+pour tester le comportement d'une méthode, d'une classe et voilà.
+55:40
+Oh Alex, tu as tu as tu as une réponse peut-être à ça à cette question là. Google ça je sais je sais pas j'ai pas
+55:46
+encore OK. En attendant euh je passe à autre chose s'il y a plus d'autres questions.
+55:54
+Hm view je vais créer. Bon vas-y je vais appeler ça app.
+56:03
+Bon fond face API import face API bon face API comme comme
+56:11
+on dit depuis c'est un framework qui permet de développer l'application web dans Python donc il y a plusieurs
+56:17
+framework on a face API on a Flask on a Django et parmi ces trois framework là
+56:22
+par exemple je je trouve face à P et Flash vraiment accessible facilement
+56:27
+quand accessible c'est vraiment on peut apprendre facilement centre force C'est cass tête comme avec Django Django
+56:33
+c'est c'est un peu plus compliqué. Donc du coup moi je je m'intègre mieux avec face à API, je m'intérve flask. Vo ça
+56:40
+pratiquement la même structure donc c'est facilement gérable et pour ça
+56:46
+il faut installer le la bibliothèque face à payer. Non je l' installé chez moi c'est pour ça que voilà ça dérange
+56:51
+pas dans ce contexte là mais il faut l'installer pour pouvoir utiliser.
+56:58
+À côté on aura besoin du du serveur qu'on va appeleron. C'est le serveur qui nous permet de
+57:04
+d'exécuter les applications face basé sur face API. On va installer ça aussi ou bien il faut aussi installer
+57:11
+ça. Donc je vais déjà initialiser mon application que va appeler face API.
+57:20
+Et comme caractéristique, vous avez vous voyez ici par exemple, il y a une panoplie de variables, du moins les
+57:26
+paramètres qu'on peut utiliser. Euh je sais comment vo les variables
+57:32
+qu'on peut utiliser ou bien les paramètres qu'on peut utiliser dans face AP. Bon, je vais utiliser quelques ici là.
+57:37
+On va utiliser par exemple le titre, la description et la version
+57:45
+titre égal je va payer ça ma première
+57:52
+application app
+57:59
+et comme description tout simplement que c'est tasque manager
+58:07
+Euh et comme version,
+58:12
+il va dire que c'est une version euh 0.1.0.
+58:18
+Ça c'est la version de mon application.
+58:24
+Z maintenant comment faire pour utiliser
+58:29
+déjà j'ai initialisé mon application mais comment faire pour l'utiliser ? On utilise encore les décorateurs qu'on appelle app etant là tu veux utiliser
+58:37
+quoi ? Il y a plusieurs méthodes du moins plusieurs méthodes HTTP. Il a par exemple la méthode get qui permet de
+58:43
+recevoir euh un objet. La méthode de poste qui permet d'envoyer une requête du moins
+58:49
+d'envoyer les objets ou du moins une requête avec les objets avec les paramètres. Il y a euh la méthode par
+58:55
+exemple P qui peut déjà modifier ce qui est du moins modifier une donnée déjà
+59:01
+existante. Il y a la méthode delete qui permet de de supprimer des éléments. Donc en
+59:08
+dépendamment de ce que vous voulez faire, vous pouvez d'abord utiliser. Moi, je vais utiliser par exemple ma m de get maintenant euh pour faire quoi ?
+59:17
+Hm faut par exemple dire hello hm.
+59:25
+C'est c'est allô
+59:32
+c'est allô
+59:37
+je par exemple message et dans le message je veux dire par
+59:43
+exemple hello from
+59:48
+codex. Là, je viens de définir mon end point.
+59:54
+En fait, on appelle ça end point en je moins ça c'est c'est ce qu'on appelle
+59:59
+n les routes en français. Et là, ça c'est le chemin qui mène vers
+1:00:07
+ce truc vers cette fonction vers endp.
+1:00:12
+Maintenant pour pouvoir l'exécuter, on a besoin comme dit d'un serveur le serveur que j'ai appelé tout à l'heure donc du
+1:00:18
+coup je vais devoir définir ça
+1:00:25
+euh
+1:00:34
+importon.
+1:00:39
+Comment est-ce que je vais utiliser Ovicon ? Ovicon a la fonction qu'on appelle run
+1:00:45
+et là tu peux passer ton application que tu viens de créer l'application que j'ai créé ici en haut dans ça. Il passe ça
+1:00:51
+ici. Et là j'aurais besoin d'un host dans le l'URL pour l'application.
+1:00:59
+H je pourrais passer par exemple 0.0.0.0.
+1:01:05
+C'est pour dire ça fonctionne local. dans local host ou alors il peut utiliser le la graisse 127.0.0.1.
+1:01:14
+Ça va sur fonctionner ou alors il peut tout simplement utiliser local host
+1:01:21
+ça va tout fonctionner. Donc restons dans le cadre de local host on a aussi besoin du port. Le port par défaut je
+1:01:29
+par défaut pour API c'est au port 8000. Mais si déjà vous avez une application
+1:01:35
+qui fonctionne au port 8000 alors vous avez aussi la possibilité de changer mais par exemple 8004 ça va tout fonctionner.
+1:01:43
+Question jusqu'ici
+1:01:50
+je pense que non. Donc je j'exécute mon application et vous voyez ça, on me dit mon
+1:01:56
+application est du moins est euh sur la grèce et ou bien assist à l'adresse ATTP
+1:02:02
+local host et au port Wik. Donc pr dessus et ça va nous redirectionner
+1:02:09
+là là on voit notre message hello hello from codex.
+1:02:17
+Donc ça c'est déjà un premier signe que notre application fonctionne correctement. Et aussi vous avez aussi
+1:02:23
+vous pouvez aussi tester ça. Il y a aussi ce trucci que face à payer nous
+1:02:29
+permet de de manager. Donc ça c'est le le bord en fait pour les routes. Donc
+1:02:35
+par exemple on voit que j'ai seulement une seule route que j'ai appelé CL donc avec la fonction get.
+1:02:41
+Donc on peut essayer de voir ce qu' l'intérieur comme réponse. Ça ça envoie seulement un string.
+1:02:48
+La description est là, le code est là et ça prend pas de paramètres ce qui est correct. On peut tester,
+1:02:54
+exécuter et voilà, on a notre hello from collect. Il peut aussi copier ça pour ceux qui ont le terminal.
+1:03:01
+On peut se tester ça sur le terminal par exemple ici et j'aurais toujours mon message hello from codex et dans les log
+1:03:10
+on voit ici justement ça a fonctionné ça c'est l'erreur de favicon donc c'est
+1:03:16
+c'est pas un souci en ce qui concerne du ça ça nous regarde pas
+1:03:22
+tout ce que j'ai exécuté j'ai mon j'ai mon mon mon truc ma réponse 200 qui est
+1:03:28
+correcte on va essayer de d'attaquer notre application qu'on veut de créer notre application task
+1:03:37
+on va ajouter notre une autre route qu'on va appeler
+1:03:45
+post que je va appeler bon cette foisci app ça
+1:03:52
+create AP task
+1:03:57
+Create def
+1:04:02
+create task.
+1:04:07
+Bon, ça prend tas type
+1:04:30
+et tas description. Voilà.
+1:04:36
+Si c'est ce que j'ai créé ici tout à l'heure c'est comme ça que j'a payé ça ouiation
+1:04:48
+changer ça pour voir importer ça
+1:04:55
+voilà ce moment de routes la première route la
+1:05:01
+première route post et voici le chemin d'cè Donc si je encore mon code à nouveau
+1:05:08
+et j'actualise ça, j'aurai maintenant deux routes. J'aurais d'abord la première route get et la première et
+1:05:14
+l'autre route poste. Si j'élargise le le
+1:05:21
+le end point, on voit donc ce que moi ce que je dois faire. Et parmi ça, il y a par exemple
+1:05:28
+create qui était qui est déjà on avait la date actuelle et pending qui donc
+1:05:34
+même si je change ça va ça va ça va trop ça va pas déranger de tes façon ça va tout rester pending
+1:05:40
+même si met ici complete ça va pas ça va pas ça va pas modifier donc il y a des données qui sont déjà euh f qui ne peut
+1:05:47
+pas changer. Il y a par exemple statut create et puis le ID.
+1:05:53
+Donc essayons de changer par exemple va payer ça
+1:05:59
+3 et le titre va appeler ça à tit
+1:06:07
+one et comme description ça
+1:06:15
+desption
+1:06:21
+ça que c'est compete et j'ai
+1:06:30
+tu vois malgré ça malgré la requête ça a toujours pris en considération mon pending
+1:06:37
+et et le ID a été généré automatiquement malgré le fait que j'ai écrit 3 ça été généré automatiquement pending pending
+1:06:44
+la de création de création tout ce qui a modifié c'est mon title et ma exption
+1:06:52
+parce que justement les autres variables sont générées automatiquement parce que j'ai mis ça à ce niveau,
+1:06:59
+vous allez être généré automatiquement à ce niveau. Ça crée ça de manière automatique. Ça sur pending et ça crée
+1:07:07
+une ID de manière automatique. Donc tout ce qui est à modifier c'est la description et le titre.
+1:07:14
+C'est bon. On peut aussi ajouter par exemple une méthode qu'on va dire get
+1:07:21
+task qui va simplement
+1:07:26
+nous donner la liste des des tas qu'on a eu à créer
+1:07:33
+ça ça
+1:07:40
+tasque que ça tit
+1:07:49
+et aussi mettre là comme point
+1:07:56
+get
+1:08:01
+et je vais appeler ça AP task
+1:08:18
+dans la méthode quête H
+1:08:26
+ok task
+1:08:36
+ça prend paramètret tout simplement la méthode
+1:08:46
+casque je pas comment ça
+1:09:04
+je va importer jeiser mon endag
+1:09:16
+Et là on a tr end point AP get AP create et non on va d'abord commencer
+1:09:24
+par mo on peut essayer d'exécuter ceci pour voir ce qu' à l'intérieur out on
+1:09:29
+pour l'instant c'est vide n'est-ce pas notre liste est vide donc on va essayer de créer
+1:09:36
+une liste ou bien un tasque
+1:09:44
+TR out title
+1:09:51
+title one
+1:09:58
+description one le reste reste identique on a créé allons allons maintenant
+1:10:05
+regarder nos reges vous voyez maintenant plus vit occupé
+1:10:10
+avec un tasque.
+1:10:18
+Ouais.
+1:10:23
+Euh je sais pas si vous avez des questions déjà à ce niveau en ce qui concerne les face API ainsi que les end point que
+1:10:31
+j'ai implémenter ici le serveur et le l'application virtuelle si
+1:10:40
+les questions
+1:10:49
+z à Il avait des bêtises pour savoir quand on utilise
+1:10:55
+pas appgate pour ça à quel moment on utilise quoi ?
+1:11:01
+OK, on va donc aller. Je gu ici tout simplement parce que je n' je n'envoie
+1:11:08
+aucune donnée. Nous sommes d'accord ?
+1:11:15
+Est-ce que si j'envoie une donnée ? Dis hello envoy le message là c'est pas considéré comme
+1:11:22
+une donnée. Ça c'est ce que je reçois. Je ne je n'envoie pas. Ça c'est ce que je reçois. Je n'envoie
+1:11:28
+pas ce que je ce que j'envoie. J'envoie le titre, j'envoie la description pour pouvoir créer mon tasque. Donc ici,
+1:11:34
+j'envoie, c'est pour ça que j'emploie la la le poste ici comme méthode par j'envoie déjà, j'entre
+1:11:42
+les paramètres du mois j'entre certains paramètres pour pouvoir avoir une structure finie. J'envoie dans ce sens
+1:11:48
+dans ce cas là, j'envoie title, j'envoie description pour avoir pour pouvoir créer un tasque. C'est pour ça j'utilise
+1:11:54
+j'utilise ici post. Ici c'est pareil, je n'entre rien en paramètres, je veux recevoir toute la
+1:12:00
+liste des tasques qui ont été créées jusqu'ici. C'est pour ça j'utiliser get et non poste.
+1:12:06
+Donc le seul endroit où j'utilis poste, c'est parce que j'envoie moi-même des données pour pouvoir recevoir pour pouvoir avoir
+1:12:12
+une donnée complète.
+1:12:19
+D'accord. Ils sont un peu de Google ça en ce moment ça va ça http méthode
+1:12:33
+on prend un truc voici les méthodes mé
+1:12:39
+par exemple tu peux envoyer ça tu peux Google ça et
+1:12:46
+puis tu ess de lumation qui est le DC call.
+1:12:53
+Donc je récupère les données avec post. J'envoie les données par
+1:12:58
+exemple ici, j'envoie par exemple ici on a name one qui prend la valeur value one
+1:13:04
+et on a name 2 et name qui prend la valeur value et je le cas c'est ça respecte ce que
+1:13:10
+j'ai fait dans mon cas n'est-ce pas j'envoie title et description tout simplement comme ici. C'est pour ça que j'utilise la méthode de post là au cas
+1:13:17
+où je n'en vois rien. Par exemple get là euh c'est où ?
+1:13:24
+H ici ils ont une méthode mais ici ils ont mis un truc truc moi comment je
+1:13:30
+n'utilisais pas ça. Donc j'essaie de lire la description
+1:13:37
+pour pouvoir voir quand est-ce que tu veux utiliser get quand est-ce que tu veux utiliser post ou bien d'autres
+1:13:43
+méthodes qui qui sont là. par connects.
+1:13:53
+Hm hm. Donc m delete
+1:13:59
+m option page connect ainsi de suite.
+1:14:06
+Donc euh ce serait déjà tout pour face API. Si vous n'avez pas de questions, on
+1:14:11
+peut tout simplement essayer d'agrandir la méthode, hein, d'agrandir sur la méthode, l'objet et tout et tout. Mais
+1:14:17
+de base, c'est ce qui concerne euh à
+1:14:23
+face à API, on a besoin de d'initialiser notre application, donner les
+1:14:28
+caractéristiques. Dans mon cas, par exemple, je le titre, la description, la version de l'application et on peut
+1:14:33
+aussi trouver ça sur mon application. Vous voyez ici ma première application face à PI, la description c'est Task
+1:14:39
+Manager et la version c'est 0.1.0. Donc ça ce qui est défini à ce niveau.
+1:14:45
+Donc si je change par exemple, je mets euh un truc comme to manager.
+1:14:53
+Je réise encore la la l'application
+1:15:00
+ça mon genre de choses. Est-ce que vous avez des questions Kevin
+1:15:06
+? Pos questions sinon est-ce que vous êtes capable donc de de nous faire un truc ? On a encore pratiquement 40
+1:15:13
+minutes. Est-ce que vous pouvez une mini application en 41 minutes ?
+1:15:19
+Je dis direct mais je sais pas capable. Hm. OK. Kevin et toi ?
+1:15:33
+Kevin est là. Il envoyé un message. Pas vraiment.
+1:15:39
+OK. OK, pas vraiment d'accord. OK. Euh, qu'est-ce qui bloque ?
+1:15:46
+Mais comment ça Mar ? Qu'est-ce qui qu'est-ce qui qu'est-ce qui te dérange ? Qu'est-ce qui t'empêche de pouvoir faire
+1:15:51
+un truc comme ça en 40 minutes ? Bien qu'est-ce pas encore clair ? J'ai quand
+1:15:57
+même reçu beaucoup d'informations à tout ça. OK, d'accord. Sinon, de
+1:16:04
+manière générale, tu comprends ce qui a été fait jusqu'ici comme au départ, tu ne comprenais pas d' ce qu'on voulait arriver. Où est-ce qu'on voulait arriver
+1:16:10
+et tout et tout ? Est-ce que tu as compris ce que c'est ? Où est-ce qu'on voulait arriver ? H h compris à peu près.
+1:16:17
+Moi ce que je proposerais c'est de mettre à la disposition peut-être ton
+1:16:24
+les fichiers sur lesquels tu as eu à travailler là. Tu vois ça là ? tu peux mettre à l'exposition et tout là, ils
+1:16:30
+pourront s'orienter avec et là tu peux juste donner un autre exercice dans mais dans le même sens en fait on utilise le
+1:16:36
+même principe tu vois mais tu mets ça à leur disposition là pour se rentrer parce que pour qui n'a
+1:16:42
+jamais vraiment eu à avoir travaille méthode et tout c'est un
+1:16:48
+nouveau monde et il a besoin vraiment d'y aller étape par étape donc moi aussi met sa disposition dans le guide et
+1:16:57
+réfléchir sur un exercice maintenant et que au courant de la semaine pourrait réfléchir voir comment lui là a fait
+1:17:03
+l'autre juste modifier en fait non même c'est juste modifier ce qu'il lui a fait pour pour
+1:17:11
+passer ça au des cas où on va donner pense là c'est un peu par c'est plus
+1:17:17
+facile mais c'est mieux compréhensible permet plus facilement d'entrer dans la chose. Hm hm. D'accord. Et Kevin, pour
+1:17:25
+toi, c'est quoi le truc ? C'est quoi ? C'est qu'est-ce qu'est-ce qui bloque le chiffre ?
+1:17:37
+Peut-être quelqu'un va m'associer à son micro pour regarder dans le chat. D'accord. OK.
+1:17:46
+D'accord. Je sais pas si on a encore pratiquement 30 minutes. Alex, quel sujet peut faire ?
+1:17:54
+Là maintenant du moins vous Marza Kevin, qu'est-ce que vous souhaitez qu'on fasse là maintenant pour
+1:18:00
+fortifier la notion ?
+1:18:06
+commencer par m'expliquer le
+1:18:11
+le directory que tu as ici à ma gauche très bien compris
+1:18:19
+comment c'est tu parles de cela hein ou ok bon déjà dans un projet c'est c'est
+1:18:26
+pas propre de créer un projet comme par exemple Pentic face à API et commencer avec les documentations déjà créer tes
+1:18:33
+tes fichiers par euh Python pour essayer d'implémenter déjà il faut structurer de façon quelqu'un qui viendra après toi
+1:18:40
+puisse être est capable de comprendre ce qui a été fait du moins la structure du code basique et là c'est c'est un truc
+1:18:47
+que j'ai utilisé depuis longtemps la structure de modèle contrôle aussi j'essaie dans dans modèle j'essaie de de
+1:18:54
+définir comment est-ce que ma classe du moins mon projet va se comporter qu mon
+1:18:59
+projet c'est justement les classes les classes les grandes classes on par
+1:19:04
+exemple la classe task quels sont ses comportements donc bien sûr si il y a par exemple des
+1:19:10
+restrictions comme par exemple valider ces élémentsci on peut aussi les les implémenter là mais moi généralement je
+1:19:16
+je fais tout ça dans contrôle là c'est pour ça je vous ai dit ici tout à l'heure h de vo je préfère implanter mes
+1:19:23
+méthodes ici dans dans contrôle là c'est ça qui manage c'est ça qui pilote mon devoir mon mon projet donc c'est c'est
+1:19:30
+ce que je mets les méthodes en fait que qu'utiliser mon mon application du moins
+1:19:36
+ma classe c'est dans contrôle là donc c'est pour ça j'ai appelé ça contrôle et c'est comme ça qu'on appelle ça design euh
+1:19:41
+design pattern un design pattern on peu Google/nl design pattern model view controller
+1:19:57
+ça image ici par exemple ceci
+1:20:03
+Gant, je vais essayer de d'implémenter ça comme du moins d'expliquer ça comme ça.
+1:20:10
+Ça c'est notre ça c'est une image que j'ai vu sur sur médium. Donc on a notre view, ça c'est
+1:20:18
+le c'est ce qui est en contact directement avec euh euh l'utilisateur. Donc les routes en fait qu'on a vu à
+1:20:24
+définire tout à l'heure. Donc quand l'isateur entre ses données,
+1:20:29
+le contrôle est bene ça et le view appel ça de toutes les façons et il a le résultat.
+1:20:36
+Et dans modèle ça peut ça peut être du je le comportement du moins les classes comme vu tout à l'heure ça peut être
+1:20:42
+aussi la base de données parce que si on a on application on aussi la possibilité de d'implémenter la base donnée comment
+1:20:48
+faire la classe base donnée ici par exemple avec SQL alchimie
+1:20:54
+et donc c'est un peu ce mécanisme ça en fait que ça ça j'essaie de respecter
+1:21:01
+bien sûr que si euh je mets tout c tous ces trucs là dans une seule méthode dans un seul projet ça va fonctionner quand
+1:21:06
+dans projet dans une seule fonction dans dans un seul fichier ça va fonctionner il y aura pas de de restriction à ce
+1:21:12
+niveau. Mais sauf que ce sera un inconvénient pour ceux qui viendra pour lire ton côte sera toufu peu lisible et
+1:21:20
+voilà difficile à à à vat en fait.
+1:21:27
+Oh ici dans mon truc dans mon contrôle j'ai deux classes que j'ai appelé create task et get task dans mon dans sa pas
+1:21:35
+trop dans modèle dans mon fichier modèle je vois tout ce qui est modèle
+1:21:40
+comportement des classes et tout et tout dans test il y a seulement les tests il
+1:21:46
+y a il y a pas rien à part les tests je vais pas venir ici. Et aussi plus tard, si vous faites des dates analyse, il y a
+1:21:52
+aussi euh des trucs qu'on appelle bint dans le fichier binaire.
+1:21:58
+Là par exemple, vous avez par exemple les scripts, ça peut être les script bat,
+1:22:06
+ça peut être par exemple euh notebook
+1:22:13
+et généralement euh c'est ici. Voilà. généralement les fichiers qui
+1:22:19
+sont binaires qui sont dans le truc binaire s'ils ne sont pas explicités par exemple sur GitOP
+1:22:25
+et à côté du binaire par exemple on peut aussi avoir un ord qu'on va appeler data
+1:22:31
+et dans data tu peux mettre par exemple les différentes euh procédures. On va appeler ça par exemple. On va appeler ça
+1:22:39
+euh
+1:22:45
+après ça par exemple. Après quand on quitte de de par exemple, on
+1:22:50
+passe à prix pro
+1:22:56
+7 par exemple et quand tu finis de tu peux mettre tu
+1:23:02
+peux faire ça ou bien tu peux mettre le résultat dans 3 que je appeler
+1:23:07
+ça
+1:23:12
+final euh
+1:23:20
+voilà en fait c'est c'est une structure en fait que j'essaie de respecter pour rendre mon code assez lisible.
+1:23:30
+D'accord. Donc essaie de regarder modèle contrôle
+1:23:35
+par exemple si vient dans ton code s'il vient par dans ton truc dans ton dans le dépôt ce que tu as fait tout à l'heure ce que tu as déposé tu vois ici tu as tu
+1:23:43
+sais pas comment tu as fait dans le répertoire tu as laissé ça la racine
+1:23:49
+tu vois temps normal c'est pas correct ce que tu vas faire ici pareil pour le nom de la classe
+1:23:56
+la mé nom de la fonction du fichier c'est pas
+1:24:02
+donc tu aurais dû structurer ça et c'est ce que j'essaie de faire avec ces c là quand je vais faire par exemple mon guit
+1:24:08
+pour le push ici là tu vois ça va structurer on on va savoir que quand je pars dans modèle je trouve tel fichier quand je pars dans source je vois tel
+1:24:15
+truc dans data je vois tel truc ainsi de suite ainsi de suite.
+1:24:21
+essayer euh dans le futur de voir comment structurer vos devoirs
+1:24:27
+pour que celui qui viendra après vous puisse comprendre ce qui se passe.
+1:24:33
+D'accord ? J'essaie de faire ça euh quand si on
+1:24:39
+regarde si on regarde mes projets ici on va voir que c'est comme ça que j'essaie de faire la pas de temps. Prenons par
+1:24:46
+exemple T de P et A ici, tu vois, j'ai ici bon ça c'est ça c'est
+1:24:51
+un peu lait dans source quand même j'ai des documents comme ceci
+1:24:56
+exemple un truc comme celui-ci vo répertoire ça aussi c'est pas aussi
+1:25:05
+trop correct parce que les fichiers Python tout ça ça répertoire bien précis
+1:25:13
+Hm. Ainsi de suite. On essayer de voir comment structurer le code. Donc c'est
+1:25:20
+comme ça que en fait c'est comme ça que je travaille et si ton problème c'est au niveau de la structure de la structure c'est gérable.
+1:25:26
+Mais si c'est le côte, on peut on peut essayer de réexpliquer ça.
+1:25:33
+Du moins, c'est d'abord est-ce d'abord correct d'abord là ? Tu vas avoir compris tu as compris ce que ce que dit ici ou bien mon approche avec ce ce
+1:25:40
+structure de de coach de projet.
+1:25:47
+D'accord. OK. Tu as d'autres questions ? Dit on commence par ça. Tu as d'autres questions. Disnous.
+1:26:06
+Dino disnous ici bien sûr que ça retourner un tasque.
+1:26:19
+fichier
+1:26:25
+et c'est pas fichier hm hm
+1:26:34
+c'est quoi les chemins d'accès que tu as défini ? pas bon j'ai défini ici trois chemins
+1:26:40
+d'accès. J'ai du moins les chemins les routes on va dire en français ce sont les routes et en anglais point
+1:26:48
+je pas le le directory moi je ne vois pas les app tas create je sais pas
+1:26:56
+euh dans quelle route ça ou il me disait que j'étais peut-être en
+1:27:02
+route. Non non, ça c'est ça oui, c'est une route que je définis mais qui n'a rien à y voir avec les répertoires si
+1:27:07
+avec ce qui se passe à gauche. À gauche ce que j'en vo on fait comment on peut
+1:27:13
+définir ça ? On se base sur quoi ? En fait, il y a les conventions que tu peux que tu peux gérer que tu peux euh
+1:27:19
+d'ailleurs, il faut savoir que c'est un string à défin c'est un string. Donc c'est pour ça que j'ai mis ça entrecôte. Ça c'est par exemple euh une convention.
+1:27:25
+Je mets mon slash ça on parle de API. Donc c'est pour ça que je mets mon API devant. Sinon tu es
+1:27:31
+obligé de mettre API. Tu peux mettre tu peux appuyer ça Marisa tant que tu comprends ce que tu fais tant que tu
+1:27:37
+comprends ce que Mar est censé faire ça va tout fonctionner essayons voir. Tu vas voir.
+1:27:45
+Tu vois tu vois ici c'est Mar donc il y a pas d'erreur que ça va générer. C'est sauf que justement pour quelqu'un qui
+1:27:50
+viendra plus tard compliqué de savoir ce que Maris a fait.
+1:27:56
+C'est pas c'est pas aussi professionnel. Donc j'appelle ça API. Et ensuite dans le cadre de tasque donc
+1:28:02
+je mets mon mon le truc ici task et puis je mets le nom. C'est censé faire quoi ? C'est censé
+1:28:07
+créer ça met create.
+1:28:15
+OK. En fait c'est que tu donnes un nom à la méthode
+1:28:23
+pas mé je donne le nom comme si don le nom d'une méthode en fait.
+1:28:30
+comme si appo
+1:28:35
+aussi dire par exemple API Callô
+1:28:44
+tout fonctionner donc si tu don les noms par là tu vois
+1:28:50
+c'est APC
+1:28:57
+donc c'est pas comme si je faisais référence à à une structure ici. C'est un chemin d'arcel c'est comme ça que je
+1:29:04
+veux avoir ma route et je sais pas si peu d'ajouter centre
+1:29:10
+couper. Je essayer un peu de t'imaginer lorsque
+1:29:15
+par exemple sur le browser, moi je sais pas euh Mat ou n'importe quel browser,
+1:29:21
+tu pars au niveau de tu lui montres un peu en fait que lorsque on parle du chemin d'accent en
+1:29:27
+fait tu vois lorsque toi par exemple tu as mis slash API ou par exemple même n'importe pas au niveau de V school là
+1:29:34
+tu veux même n'importequel on tu on essaie un peu de l'expliquer à base de ça tu vas ved school www.velgroup.com
+1:29:44
+Tu vois R tu vois déjà ça ça c'est par exemple le le bon la route la le domaine
+1:29:50
+on peut le dire ça c'est le domaine et lorsque tu rentres pour l'exemple que
+1:29:56
+a fait c'est local host art c'est le porte local host en fait ça veut dire que c'est en local chez toi donc c'est
+1:30:02
+l'équivalent de ce que tu as envie de voir si prendre ça terre à terre maintenant c'est que lorsque tu fais tu mets slash
+1:30:09
+là c'est comme la personne qui a développer lui il a mis slashtech texte par exemple
+1:30:15
+texte là don lorsque en fonction de ce que tu veux faire en fait en fonction d'où est-ce que tu vas aller tu définis
+1:30:21
+la route. quand tu mets slash API ça veut dire que si tu pars au niveau de local host nul f
+1:30:30
+portf/api/ par exemple Mariza tu vas voir ce que tu
+1:30:36
+as eu à mettre au niveau de la route là et maintenant ce qu'il était en train de dire c'est qu'on utilise généralement
+1:30:43
+pour faire comprendre quand je sais pas si je connais ce qu'on appelle une
+1:30:49
+tu connais d'abord ce qu'on appelle Pille pas sûr qu'elle connaît ce qu'on appelle.
+1:30:55
+Bon fait cour essaie de voir un peu une épia comme une sorte de
+1:31:02
+euh une sorte de route qui te donne accès à
+1:31:08
+des données. Essaie de voir ça comme ça. Tu as une application tu as besoin d'avoir accès aux différents des
+1:31:14
+informations qui sont dans cette application. J'ai utilise par exemple les P pour avoir ça c'est information
+1:31:20
+bon pour les pour l'instant en fait tu vois étant donné qu'il y a encore plein vraiment de de de termes qui sont très
+1:31:27
+nouveaux pour toi moi ce que je te conseillerais c'est d'abord de faire d'abord des recherches par rapport à ce qu'on appelle une qu'est-ce qu'une PI
+1:31:34
+fait exactement parce qu'une fois que tu vas compris qu'est-ce que fait une PI exactement il y aura plein de termes qui
+1:31:40
+seront plus faciles et deuxième terme que je pense également a montré TP méthode pour l'instant de consens son
+1:31:47
+niveau de get post get post mais juste avec les deux là c'est largement si je comprends les deux
+1:31:53
+là ça va aller donc qu'est-ce qu'une ép qu'est-ce qu'une méthode et même le truc design patter c'est un truc vraiment
+1:31:59
+nice to use mais si si dans un début tu ne réussis pas encore bien ce n'est pas un problème tu vois mais le plus
+1:32:06
+important est d'être capable de faire juste un petit local host chez toi
+1:32:13
+même c'est seulement dans une se taille tu vois comme lui il a fait là au niveau du views donc si dans ton view tu
+1:32:18
+réussis à faire tout simplement un petit local host là tu vois sans sans avoir forcément accès bien au niveau des
+1:32:25
+retour là tu écris même des trom sans tout faut avoir des des cré tout ça tu peux mettre dans un dat si tu veux mais
+1:32:30
+le plus important est simplement de savoir un peu comment est-ce que tu dois utiliser face tes piraté
+1:32:38
+il y a plein de trucs qui sont nouveaux pour toi essaie un peu de
+1:32:43
+regarder cette différente documentation là donc peut-être si possible tu peux un peu essayer de
+1:32:49
+lister ça là va un peu essayer va essayer de faire des recherches par rapport à ça parce que qui n'a vraiment
+1:32:55
+jamais vu ça c'est ce n'est pas possible un lapse de temps comme ça de pouvoir comprendre tous ces différents thèmes en
+1:33:02
+fait tu vois donc moi je te comprends donc on va peut-être essayer de lister de donner ça pour dans le calme tout un
+1:33:10
+peu essayer de feuilleter de voir un peu pouvoir faire tes recherches également
+1:33:15
+c'est Bon, j'ai un exemple pour toi Mariza pour expliquer ce qu'on appelle API.
+1:33:21
+API, en espérant que tu comprennes ça. Moi considère que euh API ou bien euh
+1:33:26
+API c'est c'est le bruit en fait c'est prends ça comme un serveur du moins prend comme quelqu'un qui qui qui est au
+1:33:33
+restaurant qui trava au restaurant dans le le serveur. Et en de base de manière générale la PI
+1:33:40
+c'est le bruit qui existe entre le serveur et le client. Le serveur dans le cas c'est l'utilisateur dans le view et
+1:33:45
+le serveur dans dans le casci c'est le backend. Tu vois, c'est face à Pierre.
+1:33:51
+OK. Maintenant reste API c'est ça vient jouer le rôle de Brook
+1:33:57
+donc c'est dit ça ça intest ça ça facile la communication entre le client et le serveur.
+1:34:04
+Si on fait ça avec un restaurant avec le restaurant par exemple dis-toi que OK dans le restaurant il y a quelqu'un qui vient demander qui vient prendre la
+1:34:10
+commande il y a quelqu'un qui qui est dans la cuisine en préparer et toi tu es
+1:34:15
+là le client celui qui vient te demander la du moins tes préférences là ton plat
+1:34:21
+menu ce que tu veux manger là c'est lui c'est lui il occupe le rôle de et toi tu occupes le rôle de de client
+1:34:29
+celui qui est à la cuisine il occupe le rôle de de serveur
+1:34:35
+Le serveur oui le serveur dans ce dans quand il dit serveur si c'est serveur backen backen face à pay donc lui c'est cui la cuisine
+1:34:42
+en fait joue le rôle de serveur donc dans dans mon ensemble dans mon dans mon programme si par exemple le serveur si c'est mon face API c'est tout ce qui est
+1:34:48
+ici derrière tout ce qui est tout ce qui est programmé ici là c'est ça monet et serveur
+1:34:53
+l'exemple que tu as mis là chef en fait le chef parce que quand tu dis serveur pense que c'est celui dans ce que tu dis l'exemple du restaurant pense que le
+1:35:00
+serveur celui du monde donc le chef qui est en train de préparer le qui est en train de préparer là donc le custo. Oui. Donc c'est lui qui joue
+1:35:05
+le rôle de serveur. Voilà. Et maintenant toi si je joue le rôle de client donc tu vois que celui qui prend
+1:35:11
+les les ta commande là lui joue le rôle de de de API en fait de rest API tu
+1:35:17
+l'envoies il par il communique avec toi et il communique il il transmet ce que tu as dit au chef au chef qui à la
+1:35:23
+cuisine et viceversa. Non, c'est un peu comme je sais pas le
+1:35:29
+bus dans l'architecture ordinateur. H on va dire ça comme ça.
+1:35:38
+Donc c'est dit si toi tu communiques avec le serveur par exemple ce qui vient
+1:35:44
+te demander ton plat ce que tu veux manger lui pas transmettre ça au chef Cristo. Si le chef qui te dit bon ça
+1:35:50
+sera près dans 15 minutes, lui il revient encore te dire que ce sera près dans 15 minutes mais toi tu ne comptes pas directement avec le chef Cristo.
+1:35:58
+Non ça en fait ce que je fait ici là dans API c'est ce que j'ai j'ai impé ici là.
+1:36:07
+Donc dans mon cas par exemple, moi je suis le client donc je viens au niveau de mon view, je mets mes données
+1:36:14
+face à API ou du moins API l'API prend ça renvoie son backet pour dire et appelle ma fonction par exemple au
+1:36:20
+niveau de contrôle appelle la la fonction créer task pour dire ok il a besoin de créer un tasque il a appelé ça
+1:36:27
+je sais pas trop task one et comme description il a appelé ça description one mais tu vois la partieci ne cause
+1:36:34
+pas directement avec le front avec ce qui est ici
+1:36:41
+c'est le reste API qui transmet ces informations donc c'est c'est vraiment vice ver ça
+1:36:49
+don tu vas comprendre ce qu'on tu dois déjà savoir ce qu'on appelle API et
+1:36:55
+ensuite comme Aléthodes HTTP méthodes
+1:37:03
+Voilà, tu vois, c'est un peu c'est c'est un peu ce que je disais. Voici la pay ici comme
+1:37:09
+ça. C'est YouTube. Euh je vais pas vous montrer YouTube.
+1:37:15
+On va entrer on va chercher un truc ici vite fait. Prenons même ceci.
+1:37:22
+Donc voici le API le serveur par exemple. On a base
+1:37:27
+données, on a les serveurs, on a bref tout tout ce qui est tout ce qui tout ce qui peut être comme serveur une base
+1:37:33
+donnée euh ça peut être ça pas trop. Voilà et du côté si on a ça peut être un
+1:37:38
+utilisateur voilà ça peut être une machine ça peut être que le téléphone
+1:37:43
+mais jamais c c c c c c ces gens-là bien le client ne cause pas directement avec la base de donnée tu vois un peu
+1:37:54
+donc je sais pas si avec tout c'est un peu clair en ce qui concerne la définition de API et comment est-ce que
+1:37:59
+c'est ceci dans le côte par tout à l'heure tu parlais de rest tu
+1:38:08
+Ah ça c'est encore notre brif ça c'est encore dérif euh reste
+1:38:18
+c'est tout ce qui concerne c'est c'est tout ce qui utilisé dans le les méthodes donc de get post pour là tu as ton
+1:38:24
+serveur tu as tuas ton client tu as ta ton serveur et puis comme il dit c'est une combination bidirectionnelle
+1:38:32
+le client envoie sa requête reste à prend ça et utiliser la méthode
+1:38:38
+correspondante par exemple post get post ou la delete envoie dans l'information
+1:38:43
+au serveur le serveur dit bon ok je fa ab l'information voici la réponse et lui il va transmetre ça au client ça c'est
+1:38:49
+cette image plus précisément c'est pour ça on appelle ça
+1:38:56
+définition bien c'est représentation c transf
+1:39:05
+D'accord. Bon, je sais ce serait peu compliqué
+1:39:10
+pour début mais voilà tu tu voilà c'est c'est le moment pour toi de t'asseoir
+1:39:16
+Google cette buggriff là essayer de comprendre et par la suite essayer donc de d'implémenter ça euh dans un projet
+1:39:24
+concret pour pouvoir ah t'imprégner de la chose quoi. Sinon c'est ser pas
+1:39:30
+vraiment assez évident pour comprendre comme Alex disait tout à l'heure et voir les méthodes du moins pour parler de
+1:39:35
+rest API il va falloir il faut absolument utiliser la http méthode mais tu as vu ici par exemple vo comment
+1:39:42
+définir API API article API article et puis avec par exemple le ID one
+1:39:49
+ainsi de suite et on a les codes de trucs par exemple
+1:39:54
+tout à l'heure dans mon coach tu as vu il y avait les trucs de 200 ça par exemple Ça prouve que mon truc a été correct.
+1:40:02
+Ça peut arriver aussi qu'il y a une erreur. On on va essayer de générer une erreur qui va sa pas ça va sortir un truc comme par exemple 404 ou bien 403
+1:40:12
+400 aant pour moi. Essayons de provoquer cette erreur là.
+1:40:18
+Hm. On va payer ça test.
+1:40:26
+Tu as vu ? On a par exemple notre fone et c'était là quelque part là
+1:40:32
+si je regarde dans mon dans mon truc ça do
+1:40:41
+donc en fait ça aussi faut il faut aussi regarder quand est-ce qu'on utilise peut-être la réponse 2001 en tout ce qui
+1:40:48
+est 200 ça ça c'est c'est norm c'est grune ça dépendant de ce que tu as comme
+1:40:53
+comme réponse mais ça c'est la zone la zone verte Euh il y a aussi la les les ce qui est
+1:41:00
+400 là, ça peut être côté serveur et tout et tout. 500 aussi, c'est côté serveur, le serveur interne et tout.
+1:41:08
+Donc je vais vous envoyer ces cet là, ces documents là pour que vous puissiez
+1:41:15
+apprendre les bases de la VAPI.
+1:41:24
+Donc sinon ça va déjà au moins c'est mieux au moins à ce niveau. Donc elle dit tantôt reste AP c'est
+1:41:29
+parce que justement ça respecte cette formuleci. J'utilise les méthodes
+1:41:35
+get post et j'échange les données entre le client
+1:41:40
+et le serveur. C'est pour ça j'appelle tout ça reste
+1:41:48
+OK. Donc pour l'exercice euh Alex, je sais
+1:41:54
+pas, moi j'ai pas trop d'inspiration. Il est où ? Il est parti.
+1:42:00
+Ah bon ? Il est parti. Bon euh en ce qui concerne l'exercice euh
+1:42:07
+on va on va reprendre l'exercice de Alex la dernière fois. Donc essayez de ça. Vous créez euh des NP de votre
+1:42:14
+application la dernière fois. Donc Mar, tu as essayé tu as essayé de d'implémenter ton application ici
+1:42:21
+euh ton truc. Donc tu peux essayer de ça, tu crées les sources ou du moins les
+1:42:27
+les end de cette application-ci qui par exemple ou on va dire un point qui par
+1:42:34
+exemple affiche les informations un un end point qui nous permet de changer
+1:42:40
+le ton site un point par exemple qui qui nous donne
+1:42:48
+le temps de cuisson Tu vois ça c'est les idées que tu pourras utiliser pour faire pour créer
+1:42:55
+pour gêner le end point bien sûr en en changeant ton truc sur en
+1:43:02
+en en bas modèle là tu as utilisé la pentic là c'est c'est encore la version
+1:43:07
+initiale tu peux utiliser par pour valider tes données comme tout à l'heure si si j'ai offre ton chis là au lieu de
+1:43:14
+mettre si mets man ça va fonctionner s'il met un ça va fonctionner or c'est pas optimal pour pour pour les tests et
+1:43:22
+comme ça. Donc essaie de valider tes tes tes modèles
+1:43:28
+et euh voilà, tu crées des NP. Kevin,
+1:43:33
+euh tu tu as fait cet exercice aussi ou bien tu n'as pas eu le temps pour gérer ça ?
+1:43:41
+Euh bon, je l'ai fait malheureusement là, je suis en route. Je suis connecté à votre téléphone en fait. D'accord. OK. Et quand tu auras le
+1:43:48
+temps, tu tu pourras bien donc mettre ça à notre disposition. et tu essaies de d'implémenter aussi comme dit à Mariza
+1:43:55
+euh des routes en fait qui permettent de valider du moins qui permettent de euh d'avoir
+1:44:01
+accès à tes à tes données que tu as eu à implémenter
+1:44:08
+en utilisant par exemple P qu'on a utilisé tout qu'on a vu tout à l'heure pour valider les les caractéristiques pour valider la classe faut pas que je
+1:44:15
+j'entre par exemple un integer pourant ta classe attend un un string on va Donc
+1:44:21
+utiliser par tick et pour continuer vous essayez d'implémenter ça dans une route ou bien
+1:44:28
+vous utilisez des routes pour ça comme dit chez toi Mariza. Euh une route pour afficher les
+1:44:34
+informations, une route pour changer euh l'accompagnement
+1:44:40
+euh une route pour par exemple ajuster le SU ain de suite. Ça ce sont les idées.
+1:44:45
+Mainant je suis pas obligé de de d'implanter autant de routes. peut faire deux trois autres qui fonctionnent là pour expliquer et tout et tout. Bon là,
+1:44:54
+ce sera la fin de ce crash course au cas où vous n'avez plus de questions et à la
+1:45:00
+semaine prochaine, on va entamer directement avec le projet collaboratif propriementandi. On s'est dit
+1:45:07
+euh comment ça l'implementation de K notre KI
+1:45:12
+on venir la prochaine fois j'arrive voir Mar tu as tu as installé chez toi euh
+1:45:18
+paam donc ce qui est bien tu as utilisé Git donc ce qui est correct aussi toi ton
+1:45:23
+côté si que tu as pas encore un environnement pour Python faudrait donc installer pour qu'on puisse travailler
+1:45:28
+ensemble la prochaine fois et créer vos comptes Crooc
+1:45:34
+Voici par exemple mon compte Grock créer vos compte Grock pour qu'on puisse
+1:45:41
+utiliser ça la la prochaine fois. Ça c'est par exemple mon compte GOC. Donc vous testez si ça si voilà
+1:45:50
+vous pouvez vous connecter avec vos compte Gitop sans pas créer forcément un compte. Voilà, vous vous connaz un
+1:45:56
+compte Gitop ou bien compte Google quand c'est c'est aussi possible ça ne prend pas l'argent donc ne vous
+1:46:02
+inquiétez pas ce qui concerne les trucs c'est c'est gratuit du moins temps qu'on utilise les modèles gratuit on va essayer de gérer ça la prochaine fois
+1:46:11
+donc euh c'est ce qui sera fait la prochaine fois donc pour pour les pour les les les le devoir si vous faites vos
+1:46:19
+devoirs faitesnous signe dans dans le groupe WhatsApp et on va essayer de
+1:46:24
+corriger ça et à vous revenir.
+1:46:29
+OK. Non, si vous n'avez plus de questions, on va donc se dire
+1:46:36
+à plus tard.
+
